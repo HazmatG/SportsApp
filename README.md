@@ -3,6 +3,7 @@
 This app helps people to find best sport clubs in Bishkek
 
 # API used:
+Rest Api
 http://admin.sports.com.kg/swagger/
 
 ## Sample Images of UI Screen
