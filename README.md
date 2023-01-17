@@ -6,6 +6,18 @@ This app helps people to find best sport clubs in Bishkek
 Rest Api
 http://admin.sports.com.kg/swagger/
 
+## How to start this project
+```bash
+flutter clean
+```
+```bash
+flutter pub get
+```
+```bash
+flutter run
+```
+
+
 ## Sample Images of UI Screen
 <p float="left" align="middle">
 <img src="sampleimages/198666170-509b7d7e-4ce2-4fe1-bb55-8539354d612e.png" width="240" height="460">
